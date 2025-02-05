@@ -2,5 +2,5 @@ __pycache__/
 libros/
 .env
 .DS_Store
-__init_.py
+__init__.py
 chatbot_semantico 1.0.ipynb
