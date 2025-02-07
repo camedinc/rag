@@ -3,7 +3,7 @@
 #---------------------------------------------------------------------------------------
 
 # Modelos LLMs locales
-import ollama     
+#import ollama     
 
 # Lectura de PDF
 import fitz
